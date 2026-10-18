@@ -1,8 +1,8 @@
 {
-  "version": "0.5.1",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.5.1.zip",
-  "checksum": "c1f9f62962483f20dc0efcbb97ab224fe87792da80b6e9650886609c92c4a39c",
+  "version": "0.5.2",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.5.2.zip",
+  "checksum": "2bf247de692b776a02e5a62530ce1945e883f275fcbae43a045ccf08bdd3aa47",
   "minNative": 3,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Liggend scherm en menu zoals OSM"
+  "notes": "Club kiezen en profiel zoals OSM"
 }
