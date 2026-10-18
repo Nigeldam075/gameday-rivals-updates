@@ -1,8 +1,8 @@
 {
-  "version": "0.8.3",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.8.3.zip",
-  "checksum": "a4208b8052d55351251b34646f52645f39e7ce5bc3bdf9f42c411d31bfac459a",
-  "minNative": 5,
+  "version": "0.9.0",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.0.zip",
+  "checksum": "6910a69131a16b9ac9975905ff0a3e191c525c736997fec2a6a816ec7d9cfea9",
+  "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Sponsors betalen meer als je boven je doelstelling staat"
+  "notes": "Echte reclame voor munten in de winkel"
 }
