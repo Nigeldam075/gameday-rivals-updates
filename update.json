@@ -1,7 +1,8 @@
 {
-  "version": "0.4.1",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.4.1.zip",
+  "version": "0.4.3",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.4.3.zip",
+  "checksum": "81fb087fea5e3444d2867735f023f546757f988d2f82099095e3f92c0d120482",
   "minNative": 2,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Spelerskaarten zoals EA FC"
+  "notes": "Test van automatisch bijwerken"
 }
