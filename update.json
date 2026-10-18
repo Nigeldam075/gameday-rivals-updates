@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.6.0.zip",
-  "checksum": "3f9c9da949987f3d3416d77d25974460d4bd711aa742193c523b071df989b10d",
+  "version": "0.6.1",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.6.1.zip",
+  "checksum": "376cfd4d0cd26f5d00145a6cc3d16871a67487dad448015649bca6f22190fdf0",
   "minNative": 4,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Meldingen, Quick Match, Voorspel en win, managerslots, geluid en meer"
+  "notes": "Knop Verder na een wedstrijd"
 }
