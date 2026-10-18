@@ -1,8 +1,8 @@
 {
-  "version": "0.9.14",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.14.zip",
-  "checksum": "f8cb903b7f4a995f12b4b6f0807c22dbbd5088fe76d009040a6f473fe89648f0",
+  "version": "0.9.15",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.15.zip",
+  "checksum": "57bff007e980c69eeff2be4613c28ae97b8af77f2785bf68ec7613a2008a0f0e",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Reclame staat sneller klaar in de winkel"
+  "notes": "Nieuw serveradres api.gamedayrivals.nl"
 }
