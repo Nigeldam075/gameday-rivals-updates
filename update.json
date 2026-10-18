@@ -1,0 +1,7 @@
+{
+  "version": "0.4.0",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.4.0.zip",
+  "minNative": 2,
+  "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
+  "notes": "Eerste versie met automatisch bijwerken"
+}
