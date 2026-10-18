@@ -1,8 +1,8 @@
 {
-  "version": "0.8.0",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.8.0.zip",
-  "checksum": "6a07b5b812bc47ff7fadf568ee0686ce87c1218544bca6de47514a65ff67ba8b",
+  "version": "0.8.1",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.8.1.zip",
+  "checksum": "cd03676761b521edc8b3f790f91547b5cd8f965a87b576c469eed33f36c39caa",
   "minNative": 5,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Juiste namen van je vrienden in de stand, trainingsnamen passen in het vak"
+  "notes": "Alle clubs beginnen met stadioncapaciteit niveau 0"
 }
