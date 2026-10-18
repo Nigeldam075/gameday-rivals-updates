@@ -1,8 +1,8 @@
 {
-  "version": "0.8.1",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.8.1.zip",
-  "checksum": "cd03676761b521edc8b3f790f91547b5cd8f965a87b576c469eed33f36c39caa",
+  "version": "0.8.2",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.8.2.zip",
+  "checksum": "3303afb2db2cdb09c8c95a9fc2b9f7fb8952ee441661cd98af7ef22278084edc",
   "minNative": 5,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Alle clubs beginnen met stadioncapaciteit niveau 0"
+  "notes": "Elke club verdient evenveel aan kaartjes en sponsors; upgrades maken het verschil"
 }
