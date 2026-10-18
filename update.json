@@ -1,8 +1,8 @@
 {
-  "version": "0.6.2",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.6.2.zip",
-  "checksum": "dcacc38fcc9efed32f619033bdb76638966e8d731f185da7940df6621a8748e8",
+  "version": "0.6.3",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.6.3.zip",
+  "checksum": "da98a5b3cd84d2570b7b447766a3bf4adf73a0abdea0dbea09277541bc54d105",
   "minNative": 4,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Muziek, echte fluit, gejuich, oooh en schot-animaties"
+  "notes": "Specialisten tellen nu echt mee"
 }
