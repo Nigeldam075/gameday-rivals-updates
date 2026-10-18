@@ -1,8 +1,8 @@
 {
-  "version": "0.9.8",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.8.zip",
-  "checksum": "f951dfc01845f033672dd6c8575b92732fb870948afb044e96e911574620930e",
+  "version": "0.9.9",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.9.zip",
+  "checksum": "c832c21a6641a8f0a17463906cf7bc9b93d5d15a56bb5a9a3d653a185ccae5cc",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Nieuwe winkel met spelerspacks en items"
+  "notes": "Account met e-mail, bevestig je e-mail voor 5 munten"
 }
