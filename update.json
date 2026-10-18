@@ -1,8 +1,8 @@
 {
-  "version": "0.9.2",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.2.zip",
-  "checksum": "802e0d0cd2c572a0f37d54bd010efe99e38e918a789134327e4760abb50187c7",
+  "version": "0.9.3",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.3.zip",
+  "checksum": "479aa11fb25d1773df796ab3f8ffd1a8834e7aa2c51c165bd2b5c12164e4e324",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Privacybeleid in de instellingen"
+  "notes": "In de rust van wedstrijden om 19:00: knop Doorgaan"
 }
