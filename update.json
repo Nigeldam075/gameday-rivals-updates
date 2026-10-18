@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.7.0.zip",
-  "checksum": "b852870774593f964e16019fa3ea6a0382e1927e05d7b1d62f743d10cb31f36d",
+  "version": "0.8.0",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.8.0.zip",
+  "checksum": "6a07b5b812bc47ff7fadf568ee0686ce87c1218544bca6de47514a65ff67ba8b",
   "minNative": 5,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Online spelen: als gast, met account, alleen of met vrienden in een league"
+  "notes": "Juiste namen van je vrienden in de stand, trainingsnamen passen in het vak"
 }
