@@ -1,8 +1,8 @@
 {
-  "version": "0.9.4",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.4.zip",
-  "checksum": "d0394c3ed6a1e38ddcd87f4fb2dcaac24179a05135b96e8519efa27fa5b8c5ed",
+  "version": "0.9.5",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.5.zip",
+  "checksum": "e574ce65e0a031bf1e04dea2ad11f9f35dc67f3e7cc96f5fb1121ef942e1efab",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Transferlijst gedeeld met je vrienden, nieuwe spelers tussen 9 en 21 uur, transfergeschiedenis"
+  "notes": "Rustiger transfermarkt"
 }
