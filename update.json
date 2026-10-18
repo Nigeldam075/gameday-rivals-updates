@@ -1,8 +1,8 @@
 {
-  "version": "0.6.1",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.6.1.zip",
-  "checksum": "376cfd4d0cd26f5d00145a6cc3d16871a67487dad448015649bca6f22190fdf0",
+  "version": "0.6.2",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.6.2.zip",
+  "checksum": "dcacc38fcc9efed32f619033bdb76638966e8d731f185da7940df6621a8748e8",
   "minNative": 4,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Knop Verder na een wedstrijd"
+  "notes": "Muziek, echte fluit, gejuich, oooh en schot-animaties"
 }
