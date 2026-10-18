@@ -1,8 +1,8 @@
 {
-  "version": "0.9.11",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.11.zip",
-  "checksum": "f509899cd65d7f0d8aefe77c8b0a0cde7ed03f4661d568cc17ceeec5789c20ca",
+  "version": "0.9.12",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.12.zip",
+  "checksum": "b431a2a1ec912edefd9f66f4200908a06ca9c51772037a1c7706f4128e3cd756",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Nieuwe wedstrijdgeluiden: applaus, boegeroep, stadiongeroezemoes"
+  "notes": "Updates kunnen niet meer blijven hangen op 0%"
 }
