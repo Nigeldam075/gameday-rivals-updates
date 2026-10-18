@@ -1,8 +1,8 @@
 {
-  "version": "0.9.5",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.5.zip",
-  "checksum": "e574ce65e0a031bf1e04dea2ad11f9f35dc67f3e7cc96f5fb1121ef942e1efab",
+  "version": "0.9.6",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.6.zip",
+  "checksum": "d3a3da2de183ad63ae769c12f760c59286b13f782ceb86ed0348a9aff5bc0ecc",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Rustiger transfermarkt"
+  "notes": "Je eigen spelers op de transferlijst staan nu ook in de transfermarkt"
 }
