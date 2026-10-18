@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.5.0.zip",
-  "checksum": "3481d053746bf34f7d5067cab54a5055917e902f0745fbcf47f71f4e9178bb6f",
+  "version": "0.5.1",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.5.1.zip",
+  "checksum": "c1f9f62962483f20dc0efcbb97ab224fe87792da80b6e9650886609c92c4a39c",
   "minNative": 3,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
   "notes": "Liggend scherm en menu zoals OSM"
