@@ -1,8 +1,8 @@
 {
-  "version": "0.9.13",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.13.zip",
-  "checksum": "0072ef98d5e5ffc84d28ec061a815203801387851bda4fae835afd128a5372d0",
+  "version": "0.9.14",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.14.zip",
+  "checksum": "f8cb903b7f4a995f12b4b6f0807c22dbbd5088fe76d009040a6f473fe89648f0",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Reclame blijft niet meer hangen op laden"
+  "notes": "Reclame staat sneller klaar in de winkel"
 }
