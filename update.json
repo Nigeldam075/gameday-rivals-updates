@@ -1,8 +1,8 @@
 {
-  "version": "0.5.4",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.5.4.zip",
-  "checksum": "55c8c8660b66c73a3a279da5c47c43f4ad2bc0935cf86320bb2688b721969eae",
+  "version": "0.5.5",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.5.5.zip",
+  "checksum": "478d28abf850d2910339f0a6d75e326638197e591294c2bd90401c104dcce353",
   "minNative": 3,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Menu scrolt niet meer vanzelf terug"
+  "notes": "Wedstrijdvoorbereiding en to-do-lijst zoals OSM"
 }
