@@ -1,8 +1,8 @@
 {
-  "version": "0.9.10",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.10.zip",
-  "checksum": "d0ce6c71c8f7fd5920cac8e98aa70ce9eaa13f3e92db5a1b12b97325cab4db51",
+  "version": "0.9.11",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.11.zip",
+  "checksum": "f509899cd65d7f0d8aefe77c8b0a0cde7ed03f4661d568cc17ceeec5789c20ca",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Bank met rente per speeldag, extra oefenwedstrijd voor 2 munten"
+  "notes": "Nieuwe wedstrijdgeluiden: applaus, boegeroep, stadiongeroezemoes"
 }
