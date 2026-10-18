@@ -1,8 +1,8 @@
 {
-  "version": "0.4.4",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.4.4.zip",
-  "checksum": "449e3d0527d55d6be3ed32d73de92dc08099a258bada136f4f86c5d8a823199c",
-  "minNative": 2,
+  "version": "0.5.0",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.5.0.zip",
+  "checksum": "3481d053746bf34f7d5067cab54a5055917e902f0745fbcf47f71f4e9178bb6f",
+  "minNative": 3,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Opstelling met EA FC-kaartjes"
+  "notes": "Liggend scherm en menu zoals OSM"
 }
