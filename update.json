@@ -1,8 +1,8 @@
 {
-  "version": "0.8.2",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.8.2.zip",
-  "checksum": "3303afb2db2cdb09c8c95a9fc2b9f7fb8952ee441661cd98af7ef22278084edc",
+  "version": "0.8.3",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.8.3.zip",
+  "checksum": "a4208b8052d55351251b34646f52645f39e7ce5bc3bdf9f42c411d31bfac459a",
   "minNative": 5,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Elke club verdient evenveel aan kaartjes en sponsors; upgrades maken het verschil"
+  "notes": "Sponsors betalen meer als je boven je doelstelling staat"
 }
