@@ -1,8 +1,8 @@
 {
-  "version": "0.9.61",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.61.zip",
-  "checksum": "85c76203378e55524eda948f5d58d1cbafb07336bf135f1faa57c43b877dd3ce",
+  "version": "0.9.62",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.62.zip",
+  "checksum": "e6ed720de716573572a52d6b4900395636d018eb4e2fef3cf9c68de8b2af1bc7",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Trainingsrad 1 op de 10"
+  "notes": "Spelerskeuze training zoals opstelling"
 }
