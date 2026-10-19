@@ -1,8 +1,8 @@
 {
-  "version": "0.9.21",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.21.zip",
-  "checksum": "2b03f312334578ffea8d1130c9f16c8b78346384e1da081e6d33f582a580e4aa",
+  "version": "0.9.22",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.22.zip",
+  "checksum": "8b3989372b210990fff36d02422aecb62d40feb25be312bec89851cd06452ea7",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Quick Match en oefenwedstrijden eerlijker: geen straf van elftaltraining, iedereen fit in Quick Match"
+  "notes": "Wedstrijden eerlijker: tactiek, fitheid en specialisten tellen duidelijk mee"
 }
