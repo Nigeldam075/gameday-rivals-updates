@@ -1,8 +1,8 @@
 {
-  "version": "0.9.17",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.17.zip",
-  "checksum": "e55e3cdc43a9170e2b7c262f99c6e5db364145cf37cd0fcf23f7176b4224bae8",
+  "version": "0.9.18",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.18.zip",
+  "checksum": "39ee5c199641216ff9cecd495b955eefe143f4b63c15834e0055ae6725c3ce84",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Openbare league: iedereen kan gratis meedoen. Een eigen league maken kost 50 munten."
+  "notes": "Opstelling beter leesbaar: grotere kaartjes met duidelijke namen"
 }
