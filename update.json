@@ -1,8 +1,8 @@
 {
-  "version": "0.9.28",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.28.zip",
-  "checksum": "4a2b12f08a15d4815e57baf593a47647363824c2e3ec8ba179d37f14e0f8e563",
+  "version": "0.9.29",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.29.zip",
+  "checksum": "6f9c488b2236e9bcf0c884be9a9a0e80288c3e7fb67fa86461f09418d9b41c09",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Training met geluk: supertraining en goede training"
+  "notes": "Training claimen met het trainingsrad"
 }
