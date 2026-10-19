@@ -1,8 +1,8 @@
 {
-  "version": "0.9.62",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.62.zip",
-  "checksum": "e6ed720de716573572a52d6b4900395636d018eb4e2fef3cf9c68de8b2af1bc7",
+  "version": "0.9.63",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.63.zip",
+  "checksum": "d047b1f93c9e97a36e75f88a689cd652f1200f407a97d83ebb733d1fe2085a3d",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Spelerskeuze training zoals opstelling"
+  "notes": "Nationaliteiten, walkout en nieuwe packs"
 }
