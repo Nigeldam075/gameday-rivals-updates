@@ -1,8 +1,8 @@
 {
-  "version": "0.9.31",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.31.zip",
-  "checksum": "6896aa3bf242e3690e1e422996f7c19788314342a79b76f0b2569151f41e742e",
+  "version": "0.9.32",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.32.zip",
+  "checksum": "84cf83bb41817a5262417a71843990f53ed5682c492f8ca1ebdf18f62e763cba",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Nieuwe bestuurskamer met drie managers"
+  "notes": "Echte stadiongeluiden tijdens wedstrijden"
 }
