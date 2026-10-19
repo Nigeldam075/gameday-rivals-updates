@@ -1,8 +1,8 @@
 {
-  "version": "0.9.57",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.57.zip",
-  "checksum": "ea912e673c86424aa4cc64c21a69bdc60366560df05ba06a05c3740b8629a709",
+  "version": "0.9.58",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.58.zip",
+  "checksum": "b9a2a67da4bc590bb4cf234565f41648a407837fe824d75a239d65c8a30d5e32",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Manager Medailles, divisies en 3D-veld"
+  "notes": "Rustreclame betrouwbaarder"
 }
