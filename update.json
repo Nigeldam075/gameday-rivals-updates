@@ -1,8 +1,8 @@
 {
-  "version": "0.9.32",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.32.zip",
-  "checksum": "84cf83bb41817a5262417a71843990f53ed5682c492f8ca1ebdf18f62e763cba",
+  "version": "0.9.33",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.33.zip",
+  "checksum": "b698f754fd673ee26cb166fc915e97efdfec67b9d46b04591f4f8a4621a076da",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Echte stadiongeluiden tijdens wedstrijden"
+  "notes": "Live wedstrijd duurt 5 minuten"
 }
