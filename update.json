@@ -1,8 +1,8 @@
 {
-  "version": "0.9.27",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.27.zip",
-  "checksum": "d431f5195b30846f29bcd89231ab3dea7a036a0bad540b58b9919119bade627a",
+  "version": "0.9.28",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.28.zip",
+  "checksum": "4a2b12f08a15d4815e57baf593a47647363824c2e3ec8ba179d37f14e0f8e563",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Verkoopsnelheid gaat mee met de speeldag"
+  "notes": "Training met geluk: supertraining en goede training"
 }
