@@ -1,8 +1,8 @@
 {
-  "version": "0.9.43",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.43.zip",
-  "checksum": "c86332a95d835e8736158692b2823257bd289c325109555540b66d2e359054a9",
+  "version": "0.9.44",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.44.zip",
+  "checksum": "3c2787ff54061494c79d11763090a73b0062daeeb6e6517a5ffe49fe84e26c2c",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Nieuw beginscherm op de website"
+  "notes": "Beginscherm gecentreerd"
 }
