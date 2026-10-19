@@ -1,8 +1,8 @@
 {
-  "version": "0.9.52",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.52.zip",
-  "checksum": "a6b109d7023bf662adb2ccbb1a0ff6ee1f2c43ca611493673e8336b97089afd5",
+  "version": "0.9.53",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.53.zip",
+  "checksum": "89e26b7d275368d8fc521fe7450193b2f9213a54303064fa0a3c47a0db866e98",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Duidelijker wie al in de basis staat"
+  "notes": "Spelersvak transfermarkt op de computer"
 }
