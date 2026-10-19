@@ -1,8 +1,8 @@
 {
-  "version": "0.9.34",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.34.zip",
-  "checksum": "ae3ff578b8bce221a21750382dfd0c8083f872b13ef5fb9d08af715fcecf0776",
+  "version": "0.9.35",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.35.zip",
+  "checksum": "57e0d85e7e03c0e0450e4a6bda486a6dcd9d7c7762545ad81735e7e55069bb02",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Keuzes tijdens de live wedstrijd"
+  "notes": "Waarschuwing voor vermoeide spelers en lege plekken"
 }
