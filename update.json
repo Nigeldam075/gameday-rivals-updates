@@ -1,8 +1,8 @@
 {
-  "version": "0.9.35",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.35.zip",
-  "checksum": "57e0d85e7e03c0e0450e4a6bda486a6dcd9d7c7762545ad81735e7e55069bb02",
+  "version": "0.9.36",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.36.zip",
+  "checksum": "8dfdb1a87faca0778cb26c0f47aa748cbdb028d91bae9fd4c9a741ff252900f5",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Waarschuwing voor vermoeide spelers en lege plekken"
+  "notes": "Spelers herstellen binnen een dag"
 }
