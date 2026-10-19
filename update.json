@@ -1,8 +1,8 @@
 {
-  "version": "0.9.24",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.24.zip",
-  "checksum": "f689da29f55ff9c0870feaa1c41cd34931668d773c69111ee85ac6ae74664d09",
+  "version": "0.9.25",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.25.zip",
+  "checksum": "2ca14a22643243b3fc2d88586844656e5ca5080fb2bff18a649aa05bbf2877c0",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Adblocker herkennen: even wachten in de rust"
+  "notes": "Munten verdienen met reclame alleen in de app"
 }
