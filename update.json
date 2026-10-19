@@ -1,8 +1,8 @@
 {
-  "version": "0.9.22",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.22.zip",
-  "checksum": "8b3989372b210990fff36d02422aecb62d40feb25be312bec89851cd06452ea7",
+  "version": "0.9.23",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.23.zip",
+  "checksum": "ac38a4567f7dbae18da0c2e7e329833b1a65aafe80f9b256aa29644680af771b",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Wedstrijden eerlijker: tactiek, fitheid en specialisten tellen duidelijk mee"
+  "notes": "Geen uitleg meer bij tactiek: zelf ontdekken wat werkt"
 }
