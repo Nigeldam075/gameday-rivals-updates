@@ -1,8 +1,8 @@
 {
-  "version": "0.9.53",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.53.zip",
-  "checksum": "89e26b7d275368d8fc521fe7450193b2f9213a54303064fa0a3c47a0db866e98",
+  "version": "0.9.54",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.54.zip",
+  "checksum": "321756cc6b25edee9b3437c491dfce9f79aa803529fe829a915c5311244ba550",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Spelersvak transfermarkt op de computer"
+  "notes": "Bank: wisselknop per linie"
 }
