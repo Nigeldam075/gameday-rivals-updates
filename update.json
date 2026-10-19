@@ -1,8 +1,8 @@
 {
-  "version": "0.9.15",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.15.zip",
-  "checksum": "57bff007e980c69eeff2be4613c28ae97b8af77f2785bf68ec7613a2008a0f0e",
+  "version": "0.9.16",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.16.zip",
+  "checksum": "8bcd1fe1b255d32426ac5c7942326e20cd54cb10eac66f7bdf9f43cf28c42c07",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Nieuw serveradres api.gamedayrivals.nl"
+  "notes": "Nieuwe uitstraling: diepte en licht, navigatiebalk links, fysieke knoppen, kantelende spelerskaarten, transfers in twee kolommen"
 }
