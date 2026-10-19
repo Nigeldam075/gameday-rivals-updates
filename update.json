@@ -1,8 +1,8 @@
 {
-  "version": "0.9.59",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.59.zip",
-  "checksum": "e510708a857d368d393ab7645bb0efa02f5ca7cf9f47a980dc45683d88d30a2e",
+  "version": "0.9.60",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.60.zip",
+  "checksum": "4c2e2529c303aaa868fdb7a687396de4ad571328184336517538e80baa27560f",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "VS niet meer afgesneden"
+  "notes": "Training claimen in 3D"
 }
