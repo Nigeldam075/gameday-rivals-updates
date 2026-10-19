@@ -1,8 +1,8 @@
 {
-  "version": "0.9.18",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.18.zip",
-  "checksum": "39ee5c199641216ff9cecd495b955eefe143f4b63c15834e0055ae6725c3ce84",
+  "version": "0.9.19",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.19.zip",
+  "checksum": "b1f12aa61a21e7d637752203a362080526366cbb0697af825019521bb59be417",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Opstelling beter leesbaar: grotere kaartjes met duidelijke namen"
+  "notes": "Wachtwoord vergeten: nieuw wachtwoord kiezen met een code per mail"
 }
