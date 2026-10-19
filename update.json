@@ -1,8 +1,8 @@
 {
-  "version": "0.9.50",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.50.zip",
-  "checksum": "fea6c85f4af15d9c3897f52ae182b68e99709b78f02ce35eae3aeb660f3ae301",
+  "version": "0.9.51",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.51.zip",
+  "checksum": "84a408cfafd4e55b8d572c5ae07c7288aa3eb9bce97571410a711b0adcce76d2",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Vaste volgorde in spelerslijsten"
+  "notes": "Tabjes bij opstelling"
 }
