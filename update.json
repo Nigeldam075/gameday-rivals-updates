@@ -1,8 +1,8 @@
 {
-  "version": "0.9.55",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.55.zip",
-  "checksum": "cdd64461b6d64afe3e4f2d8e896a47140922b791e047582000035304576e49f0",
+  "version": "0.9.56",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.56.zip",
+  "checksum": "fdd0aa4a913e3f4a027ec86f73980eaf7499305bfd1c6d4539cc76939c100f4a",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Wachtwoord tonen met oogje"
+  "notes": "Managerrang in divisies"
 }
