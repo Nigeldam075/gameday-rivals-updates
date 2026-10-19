@@ -1,8 +1,8 @@
 {
-  "version": "0.9.41",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.41.zip",
-  "checksum": "2f9f106ea7ba3b3b51f0bd12184340d37a71bd8790cf373dac9273b909a2ad84",
+  "version": "0.9.42",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.42.zip",
+  "checksum": "306d7a67fa7c449d6119b6cdf478e884a2151bcb5a840d5b5ab000a3bd63f6f7",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Bankrente 2% per speeldag"
+  "notes": "Rente bij de aftrap om 19:00"
 }
