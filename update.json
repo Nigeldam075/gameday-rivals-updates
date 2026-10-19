@@ -1,8 +1,8 @@
 {
-  "version": "0.9.20",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.20.zip",
-  "checksum": "b4a5fec12902af82d70dc645a8ab417163fa5a33a8bc87afb610595fc3066390",
+  "version": "0.9.21",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.21.zip",
+  "checksum": "2b03f312334578ffea8d1130c9f16c8b78346384e1da081e6d33f582a580e4aa",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Posities bij voetbal weer met Engelse afkortingen (GK, CB, ST ...)"
+  "notes": "Quick Match en oefenwedstrijden eerlijker: geen straf van elftaltraining, iedereen fit in Quick Match"
 }
