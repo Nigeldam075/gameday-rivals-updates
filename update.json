@@ -1,8 +1,8 @@
 {
-  "version": "0.9.19",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.19.zip",
-  "checksum": "b1f12aa61a21e7d637752203a362080526366cbb0697af825019521bb59be417",
+  "version": "0.9.20",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.20.zip",
+  "checksum": "b4a5fec12902af82d70dc645a8ab417163fa5a33a8bc87afb610595fc3066390",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Wachtwoord vergeten: nieuw wachtwoord kiezen met een code per mail"
+  "notes": "Posities bij voetbal weer met Engelse afkortingen (GK, CB, ST ...)"
 }
