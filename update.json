@@ -1,8 +1,8 @@
 {
-  "version": "0.9.58",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.58.zip",
-  "checksum": "b9a2a67da4bc590bb4cf234565f41648a407837fe824d75a239d65c8a30d5e32",
+  "version": "0.9.59",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.59.zip",
+  "checksum": "e510708a857d368d393ab7645bb0efa02f5ca7cf9f47a980dc45683d88d30a2e",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Rustreclame betrouwbaarder"
+  "notes": "VS niet meer afgesneden"
 }
