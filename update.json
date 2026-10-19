@@ -1,8 +1,8 @@
 {
-  "version": "0.9.39",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.39.zip",
-  "checksum": "3228f87abc8834da5baa83b1e87f2bd51e54631773ae9cd79ef7ae6a4a0a60b8",
+  "version": "0.9.40",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.40.zip",
+  "checksum": "947d05dc9b781ad55117c8b5f805987fc7ab9f2a4e0bb5457257ff3111e48cac",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Grotere transfermarkt met sale"
+  "notes": "Nieuwe bank met spaargeld en financien"
 }
