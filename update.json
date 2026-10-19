@@ -1,8 +1,8 @@
 {
-  "version": "0.9.47",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.47.zip",
-  "checksum": "7e3bbc995550e5e9ffcd92853b8d7b82c72eb5e402a12ff1bed0d6e92c47db4d",
+  "version": "0.9.48",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.48.zip",
+  "checksum": "56aa42c8473dde790dac39e4b968c26834299c07546b9c8e126c0e68c2b3e00c",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "3D-tegels zoals OSM"
+  "notes": "Waarde zichtbaar bij verkopen"
 }
