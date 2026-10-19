@@ -1,8 +1,8 @@
 {
-  "version": "0.9.33",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.33.zip",
-  "checksum": "b698f754fd673ee26cb166fc915e97efdfec67b9d46b04591f4f8a4621a076da",
+  "version": "0.9.34",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.34.zip",
+  "checksum": "ae3ff578b8bce221a21750382dfd0c8083f872b13ef5fb9d08af715fcecf0776",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Live wedstrijd duurt 5 minuten"
+  "notes": "Keuzes tijdens de live wedstrijd"
 }
