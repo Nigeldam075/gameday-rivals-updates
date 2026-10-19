@@ -1,8 +1,8 @@
 {
-  "version": "0.9.48",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.48.zip",
-  "checksum": "56aa42c8473dde790dac39e4b968c26834299c07546b9c8e126c0e68c2b3e00c",
+  "version": "0.9.49",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.49.zip",
+  "checksum": "b61e9b8d40866d210add8470a9d041b8fe76cffff68797a71590fa14db722aa9",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Waarde zichtbaar bij verkopen"
+  "notes": "Verwachte verkooptijd weg"
 }
