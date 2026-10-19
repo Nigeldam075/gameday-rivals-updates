@@ -1,8 +1,8 @@
 {
-  "version": "0.9.36",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.36.zip",
-  "checksum": "8dfdb1a87faca0778cb26c0f47aa748cbdb028d91bae9fd4c9a741ff252900f5",
+  "version": "0.9.37",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.37.zip",
+  "checksum": "cdbe4f44ab2b940f4bb03052d3d0961119a49328bde0342b982c914128a33bfa",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Spelers herstellen binnen een dag"
+  "notes": "Keuzemoment heet nu Uitgeput"
 }
