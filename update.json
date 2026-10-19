@@ -1,8 +1,8 @@
 {
-  "version": "0.9.29",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.29.zip",
-  "checksum": "6f9c488b2236e9bcf0c884be9a9a0e80288c3e7fb67fa86461f09418d9b41c09",
+  "version": "0.9.30",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.30.zip",
+  "checksum": "52a2da149a8241a180ba044bf8c516b5c500041fbd0509b28a78b53b02421d4d",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Training claimen met het trainingsrad"
+  "notes": "Bij opstarten meteen je wedstrijd live zien"
 }
