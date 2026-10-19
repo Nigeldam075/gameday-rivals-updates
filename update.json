@@ -1,8 +1,8 @@
 {
-  "version": "0.9.38",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.38.zip",
-  "checksum": "659a8a6cad3cf737059ce12fbd88f98709efef40007076bfc73478f595cfdd79",
+  "version": "0.9.39",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.39.zip",
+  "checksum": "3228f87abc8834da5baa83b1e87f2bd51e54631773ae9cd79ef7ae6a4a0a60b8",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Formaties, scheidsrechters en spelersstijlen"
+  "notes": "Grotere transfermarkt met sale"
 }
