@@ -1,8 +1,8 @@
 {
-  "version": "0.9.51",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.51.zip",
-  "checksum": "84a408cfafd4e55b8d572c5ae07c7288aa3eb9bce97571410a711b0adcce76d2",
+  "version": "0.9.52",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.52.zip",
+  "checksum": "a6b109d7023bf662adb2ccbb1a0ff6ee1f2c43ca611493673e8336b97089afd5",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Tabjes bij opstelling"
+  "notes": "Duidelijker wie al in de basis staat"
 }
