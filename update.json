@@ -1,8 +1,8 @@
 {
-  "version": "0.9.44",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.44.zip",
-  "checksum": "3c2787ff54061494c79d11763090a73b0062daeeb6e6517a5ffe49fe84e26c2c",
+  "version": "0.9.45",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.45.zip",
+  "checksum": "ccea64e735a56295edffce55d5a5eba08b9f58a7b3f42bfe4c16f4741a94505c",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Beginscherm gecentreerd"
+  "notes": "Nieuwe scout"
 }
