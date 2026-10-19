@@ -1,8 +1,8 @@
 {
-  "version": "0.9.25",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.25.zip",
-  "checksum": "2ca14a22643243b3fc2d88586844656e5ca5080fb2bff18a649aa05bbf2877c0",
+  "version": "0.9.26",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.26.zip",
+  "checksum": "e68d18fd4d2555552655332241af729d75367fc6a1f79ecadbf372955b71aaec",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Munten verdienen met reclame alleen in de app"
+  "notes": "Trager verkopen en soms een topper op de markt"
 }
