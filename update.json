@@ -1,8 +1,8 @@
 {
-  "version": "0.9.42",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.42.zip",
-  "checksum": "306d7a67fa7c449d6119b6cdf478e884a2151bcb5a840d5b5ab000a3bd63f6f7",
+  "version": "0.9.43",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.43.zip",
+  "checksum": "c86332a95d835e8736158692b2823257bd289c325109555540b66d2e359054a9",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Rente bij de aftrap om 19:00"
+  "notes": "Nieuw beginscherm op de website"
 }
