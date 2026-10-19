@@ -1,8 +1,8 @@
 {
-  "version": "0.9.46",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.46.zip",
-  "checksum": "ec1a59418361d989d11e2c1d8079a3f626fc2b7874c68fc4f0878ab676ba342b",
+  "version": "0.9.47",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.47.zip",
+  "checksum": "7e3bbc995550e5e9ffcd92853b8d7b82c72eb5e402a12ff1bed0d6e92c47db4d",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Clubnamen niet meer afgesneden"
+  "notes": "3D-tegels zoals OSM"
 }
