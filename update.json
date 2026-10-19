@@ -1,8 +1,8 @@
 {
-  "version": "0.9.40",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.40.zip",
-  "checksum": "947d05dc9b781ad55117c8b5f805987fc7ab9f2a4e0bb5457257ff3111e48cac",
+  "version": "0.9.41",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.41.zip",
+  "checksum": "2f9f106ea7ba3b3b51f0bd12184340d37a71bd8790cf373dac9273b909a2ad84",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Nieuwe bank met spaargeld en financien"
+  "notes": "Bankrente 2% per speeldag"
 }
