@@ -1,8 +1,8 @@
 {
-  "version": "0.9.49",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.49.zip",
-  "checksum": "b61e9b8d40866d210add8470a9d041b8fe76cffff68797a71590fa14db722aa9",
+  "version": "0.9.50",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.50.zip",
+  "checksum": "fea6c85f4af15d9c3897f52ae182b68e99709b78f02ce35eae3aeb660f3ae301",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Verwachte verkooptijd weg"
+  "notes": "Vaste volgorde in spelerslijsten"
 }
