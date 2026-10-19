@@ -1,8 +1,8 @@
 {
-  "version": "0.9.37",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.37.zip",
-  "checksum": "cdbe4f44ab2b940f4bb03052d3d0961119a49328bde0342b982c914128a33bfa",
+  "version": "0.9.38",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.38.zip",
+  "checksum": "659a8a6cad3cf737059ce12fbd88f98709efef40007076bfc73478f595cfdd79",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Keuzemoment heet nu Uitgeput"
+  "notes": "Formaties, scheidsrechters en spelersstijlen"
 }
