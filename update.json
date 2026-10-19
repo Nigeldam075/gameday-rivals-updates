@@ -1,8 +1,8 @@
 {
-  "version": "0.9.63",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.63.zip",
-  "checksum": "d047b1f93c9e97a36e75f88a689cd652f1200f407a97d83ebb733d1fe2085a3d",
+  "version": "0.9.64",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.64.zip",
+  "checksum": "4d9de0abd7e9e8137a74ba45758d6e12886672c7b1c63f7dc0be292a76c23270",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Nationaliteiten, walkout en nieuwe packs"
+  "notes": "Cadeau: gratis Elite pack"
 }
