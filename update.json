@@ -1,8 +1,8 @@
 {
-  "version": "0.9.54",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.54.zip",
-  "checksum": "321756cc6b25edee9b3437c491dfce9f79aa803529fe829a915c5311244ba550",
+  "version": "0.9.55",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.55.zip",
+  "checksum": "cdd64461b6d64afe3e4f2d8e896a47140922b791e047582000035304576e49f0",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Bank: wisselknop per linie"
+  "notes": "Wachtwoord tonen met oogje"
 }
