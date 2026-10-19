@@ -1,8 +1,8 @@
 {
-  "version": "0.9.26",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.26.zip",
-  "checksum": "e68d18fd4d2555552655332241af729d75367fc6a1f79ecadbf372955b71aaec",
+  "version": "0.9.27",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.27.zip",
+  "checksum": "d431f5195b30846f29bcd89231ab3dea7a036a0bad540b58b9919119bade627a",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Trager verkopen en soms een topper op de markt"
+  "notes": "Verkoopsnelheid gaat mee met de speeldag"
 }
