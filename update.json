@@ -1,8 +1,8 @@
 {
-  "version": "0.9.71",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.71.zip",
-  "checksum": "c565dad40b5d05803eeb277c95af52010a6a8b17ca370aba44c8b8db8ded26e4",
+  "version": "0.9.72",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.72.zip",
+  "checksum": "a4c8f6cae073b089fa1cd5db1bab8be1a02703612bbe799bb11464a2f84a694f",
   "minNative": 8,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Nieuw begin met tutorial"
+  "notes": "Schermen opgeruimd"
 }
