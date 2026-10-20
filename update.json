@@ -1,8 +1,8 @@
 {
-  "version": "0.9.72",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.72.zip",
-  "checksum": "a4c8f6cae073b089fa1cd5db1bab8be1a02703612bbe799bb11464a2f84a694f",
+  "version": "0.9.73",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.73.zip",
+  "checksum": "6787b46ef6d4004445506a2f7a7099bfc830599764f4818d6257e394856db586",
   "minNative": 8,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Schermen opgeruimd"
+  "notes": "Computer-versie vult het scherm"
 }
