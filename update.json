@@ -1,8 +1,8 @@
 {
-  "version": "0.9.66",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.66.zip",
-  "checksum": "5e76c4fe476b45c6472f4d79b4f8f9fc0becaf7fe1ff2fc606bb8c5ced6a88b7",
+  "version": "0.9.67",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.67.zip",
+  "checksum": "03cbb710d07207afeec5eec0436b7f253e07ad18b09854769b0a3f35574dfb97",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Reclame-meldingen voor beheer"
+  "notes": "Ranglijst"
 }
