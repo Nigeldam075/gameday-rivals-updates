@@ -1,8 +1,8 @@
 {
-  "version": "0.9.70",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.70.zip",
-  "checksum": "d144f1496dffb29074d7b1f9a2b2aced9db30734418c4e0b90bbc899c1254898",
+  "version": "0.9.71",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.71.zip",
+  "checksum": "c565dad40b5d05803eeb277c95af52010a6a8b17ca370aba44c8b8db8ded26e4",
   "minNative": 8,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Pushmeldingen voor chat en transfers (nieuwe app)"
+  "notes": "Nieuw begin met tutorial"
 }
