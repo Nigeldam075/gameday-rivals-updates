@@ -1,8 +1,8 @@
 {
-  "version": "0.9.74",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.74.zip",
-  "checksum": "bc9e5d21497f02204c5a5abf217e38bd289416cbb95ae5115bede864c291bae2",
+  "version": "0.9.75",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.75.zip",
+  "checksum": "6e35838e0eabbcfcaff7473630b773cc3fad9afce971c28f6fd5d6ecdc3b4ecd",
   "minNative": 8,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Vernieuwde schermen en de krant"
+  "notes": "Verkoop zoals OSM, nieuwe sponsors en contracten"
 }
