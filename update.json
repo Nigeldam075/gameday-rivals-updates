@@ -1,8 +1,8 @@
 {
-  "version": "0.9.67",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.67.zip",
-  "checksum": "03cbb710d07207afeec5eec0436b7f253e07ad18b09854769b0a3f35574dfb97",
+  "version": "0.9.68",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.68.zip",
+  "checksum": "2600c0fcc7baea4405a07b0f8e936e2859759c07a37b7bd8923df32ebd1bbc7d",
   "minNative": 7,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Ranglijst"
+  "notes": "Chat, vrienden uitnodigen en pack delen"
 }
