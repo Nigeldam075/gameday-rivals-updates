@@ -1,8 +1,8 @@
 {
-  "version": "0.9.76",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.76.zip",
-  "checksum": "5f1e9cdd95e655b9a8d3533e32e12e09cfec2f52513286d492f233952f3d9a09",
+  "version": "0.9.77",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.77.zip",
+  "checksum": "12220503b251c0cf612b444d9cf38eff1165321a92be2f4ccf9485e58c3b11d5",
   "minNative": 8,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "De transfermarkt groeit nu mee met het seizoen: toppers komen later, spelers vanaf 83 zijn meer waard en pack-spelers krijgen dezelfde waarde als op de markt."
+  "notes": "Spelerswaarden werken nu zoals in OSM: jonge spelers zijn meer waard omdat ze sneller trainen, oude spelers minder, en aanvallers zijn duurder dan verdedigers en keepers."
 }
