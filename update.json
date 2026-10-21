@@ -1,8 +1,8 @@
 {
-  "version": "0.9.77",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.77.zip",
-  "checksum": "12220503b251c0cf612b444d9cf38eff1165321a92be2f4ccf9485e58c3b11d5",
+  "version": "0.9.78",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.78.zip",
+  "checksum": "c971cf85598bc03f52f3f2b9c975007dfc059e535beb9d681a31f975bc0df628",
   "minNative": 8,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Spelerswaarden werken nu zoals in OSM: jonge spelers zijn meer waard omdat ze sneller trainen, oude spelers minder, en aanvallers zijn duurder dan verdedigers en keepers."
+  "notes": "Het menu is opgeruimd: 15 knoppen in plaats van 32. Schermen die bij elkaar horen staan nu samen, met tabbladen bovenin (bijvoorbeeld Club: stadion, sponsors, bank en bestuur)."
 }
