@@ -1,8 +1,8 @@
 {
-  "version": "0.9.79",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.79.zip",
-  "checksum": "7c42e563fc26c462ef0822cd7d8c00850f9d0bc98759fc5019109ca307d845e7",
+  "version": "0.9.80",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.80.zip",
+  "checksum": "a31ef72bfc348e4df4c7830755c988137572c6d61502b6ed9642cabe470efc6c",
   "minNative": 8,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "In Instellingen staat nu een knop om je account te laten verwijderen, en het privacybeleid is bijgewerkt."
+  "notes": "Alle clubs hebben nu eigen namen en nieuwe logo's, met een knipoog naar de echte club (bijvoorbeeld PVS Eindhoven en Ajacx Amsterdam). Je team, punten en geld blijven gewoon staan."
 }
