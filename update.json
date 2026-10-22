@@ -1,8 +1,8 @@
 {
-  "version": "0.9.78",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.78.zip",
-  "checksum": "c971cf85598bc03f52f3f2b9c975007dfc059e535beb9d681a31f975bc0df628",
+  "version": "0.9.79",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.79.zip",
+  "checksum": "7c42e563fc26c462ef0822cd7d8c00850f9d0bc98759fc5019109ca307d845e7",
   "minNative": 8,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Het menu is opgeruimd: 15 knoppen in plaats van 32. Schermen die bij elkaar horen staan nu samen, met tabbladen bovenin (bijvoorbeeld Club: stadion, sponsors, bank en bestuur)."
+  "notes": "In Instellingen staat nu een knop om je account te laten verwijderen, en het privacybeleid is bijgewerkt."
 }
