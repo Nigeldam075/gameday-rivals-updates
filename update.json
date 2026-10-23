@@ -1,8 +1,8 @@
 {
-  "version": "0.9.80",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.80.zip",
-  "checksum": "a31ef72bfc348e4df4c7830755c988137572c6d61502b6ed9642cabe470efc6c",
+  "version": "0.9.81",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.81.zip",
+  "checksum": "0ed2b90eaa5941685d0f17f1e7387c8a83f0a35ed69c022e91562d2d35953b46",
   "minNative": 8,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Alle clubs hebben nu eigen namen en nieuwe logo's, met een knipoog naar de echte club (bijvoorbeeld PVS Eindhoven en Ajacx Amsterdam). Je team, punten en geld blijven gewoon staan."
+  "notes": "Waterpolo is uit de game gehaald. Voetbal werkt gewoon zoals altijd."
 }
