@@ -1,8 +1,8 @@
 {
-  "version": "0.9.81",
-  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.81.zip",
-  "checksum": "0ed2b90eaa5941685d0f17f1e7387c8a83f0a35ed69c022e91562d2d35953b46",
+  "version": "0.9.82",
+  "url": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/bundle-0.9.82.zip",
+  "checksum": "fe01f63f1a990c684bf3cf472991667b5fd0073ac72c78d74697887de8105d59",
   "minNative": 8,
   "apkUrl": "https://raw.githubusercontent.com/Nigeldam075/gameday-rivals-updates/main/GamedayRivals.apk",
-  "notes": "Waterpolo is uit de game gehaald. Voetbal werkt gewoon zoals altijd."
+  "notes": "Nieuw: de Gameday Studio! Presentatoren Lotte en Bram bespreken je wedstrijd voor de aftrap, in de rust en na afloop, met tips voor je team."
 }
